@@ -37,3 +37,35 @@ export const user = [
     "homepage": "https://amogg.tistory.com/5"
   }
 ];
+
+
+export const chart = [
+  {
+    "id": 1,
+    "number": 270
+  },
+  {
+    "id": 2,
+    "number": 312
+  },
+  {
+    "id": 3,
+    "number": 217
+  },
+  {
+    "id": 4,
+    "number": 237
+  },
+  {
+    "id": 5,
+    "number": 400
+  },
+  {
+    "id": 6,
+    "number": 327
+  },
+  {
+    "id": 7,
+    "number": 370
+  },
+];

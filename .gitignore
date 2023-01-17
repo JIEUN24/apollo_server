@@ -1,1 +1,3 @@
 node_modules/
+src/data-in-csv/
+database.js
